@@ -197,7 +197,7 @@
     align-items: center;
     gap: 250px;
     background: #ffefe8;
-    margin: 0 250px ;
+    margin: 100px 250px ;
 }
 .info-container{
     font-size: 50px;
@@ -209,6 +209,7 @@
     background: #f87801;
     font-size: 30px;
     color:#ffefe8;
+    border:none;
 }
 .info{
     background: #ffefe8;
